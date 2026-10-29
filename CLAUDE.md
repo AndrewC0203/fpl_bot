@@ -71,7 +71,7 @@ For bugs in code you wrote for AI work:
 </your_own_bugs>
 
 <issue_log>
-Issue log path: (not created yet)
+Issue log path: /Users/achoi/fpl_bot/ISSUE_LOG.md
 
 - Andrew and Thomas delegated the log's file name and location to you. The first time you need the log, create it, tell them its path, and replace "(not created yet)" above with that path. Change nothing else in this file.
 - The log is committed and shared through git like every other file.
